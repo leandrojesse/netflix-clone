@@ -79,7 +79,21 @@ header nav a:hover{
     transition: .3s ease all;
 
 }
+.botao a{
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
 
+}
+
+.botao:hover a{
+    color: black;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+
+}
 .botao:hover{
     background-color: white;
     color:black;
